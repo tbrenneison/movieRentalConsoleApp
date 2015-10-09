@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\bin\Debug\movieRentalApplication.exe.config
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\bin\Debug\movieRentalApplication.exe
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\bin\Debug\movieRentalApplication.pdb
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\obj\Debug\movieRentalApplication.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\obj\Debug\movieRentalApplication.exe
+C:\Users\WeCanCodeIT\Desktop\movieRentalApp\movieRentalApplication\obj\Debug\movieRentalApplication.pdb
